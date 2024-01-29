@@ -26,7 +26,7 @@ The dashboard presents:
 <li>This project highlights the power of data visualization in making complex datasets understandable and enables easy identification of pandemic patterns across different geographical locations.</li>
 
 <h2>Result Visualisation</h2>
-![COVID-19_Dashboard Analysis Using Tableau](https://github.com/vaishnavik0/Voice-Assistant/assets/75296347/9e1f32e3-897e-4521-b393-93ec17d9cc66)
 
-<h2>Video Represenatiton</h2>
-![ezgif-5-d20b7f4f75](https://github.com/vaishnavik0/Voice-Assistant/assets/75296347/f86bd9ed-8070-44c8-b8f8-45feb65ac5f1)
+
+![Read Image](![COVID-19_Dashboard Analysis Using Tableau](https://github.com/vaishnavik0/Global-COVID-19-Data-Analysis-and-Visualization/assets/75296347/1cc3d069-d3c1-4efa-b831-043aa07bab3d)
+
